@@ -1,2 +1,3 @@
 # nadeemNUST
 This is my first repos...
+Author: Nadeem Khan
